@@ -7,8 +7,6 @@ and one spot light. It uses the Phong shading model.
 
 ## Project Structure
 
-The code can be compiled with CMAKE and works on Windows only.
-
 The project consists of a sample application and a renderer. 
 
 The renderer is in its own static library.
@@ -18,6 +16,8 @@ The sample application allows you to move and rotate the camera.
 It adds 50 meshes to the scene and 10 point lights and a spot light.
 
 The spotlight moves around with the camera and faces in the camera's forward direction.
+
+The code can be compiled with CMAKE.
 
 ## Controls
 
