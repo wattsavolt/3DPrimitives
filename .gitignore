@@ -1,0 +1,12 @@
+# Ignored files
+*~
+*.suo
+*.sdf
+*.opensdf
+bin
+obj
+lib
+Debug
+*.aps
+*.opendb
+.vs/
