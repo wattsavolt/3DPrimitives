@@ -1,6 +1,6 @@
 # 3DPrimitives 
 
-Simple 3D renderer for rendering primitives. Works on Windows only.
+Simple 3D renderer for rendering geometric primitives. Works on Windows only.
 
 The renderer is a forward renderer with one pass and support for any number of point lights
 and one spot light. It uses the Phong shading model.
@@ -15,9 +15,7 @@ The sample application allows you to move and rotate the camera.
 
 It adds 50 meshes to the scene and 10 point lights and a spot light.
 
-The spotlight moves around with the camera and faces in the camera's forward direction.
-
-The code can be compiled with CMAKE.
+The spotlight moves around with the camera and faces in the camera's forward direction..
 
 ## Controls
 
